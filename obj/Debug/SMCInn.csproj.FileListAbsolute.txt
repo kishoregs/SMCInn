@@ -1,0 +1,6 @@
+C:\Users\kisho\samples\SMCInn\bin\Debug\SMCInn.dll.config
+C:\Users\kisho\samples\SMCInn\bin\Debug\SMCInn.dll
+C:\Users\kisho\samples\SMCInn\bin\Debug\SMCInn.pdb
+C:\Users\kisho\samples\SMCInn\obj\Debug\SMCInn.csprojAssemblyReference.cache
+C:\Users\kisho\samples\SMCInn\obj\Debug\SMCInn.dll
+C:\Users\kisho\samples\SMCInn\obj\Debug\SMCInn.pdb
